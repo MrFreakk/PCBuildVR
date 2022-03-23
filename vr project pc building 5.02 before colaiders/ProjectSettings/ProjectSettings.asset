@@ -666,7 +666,7 @@ PlayerSettings:
   cloudServicesEnabled:
     Analytics: 0
     Build: 0
-    Collab: 0
+    Collab: 1
     Game Performance: 0
     Purchasing: 0
     UDP: 0
@@ -685,7 +685,7 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 4335ee3b-3e50-48b3-91ff-a250180d9dff
+  cloudProjectId: b2f691d2-2a22-4d01-bd8c-1a96581cced0
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: My project
