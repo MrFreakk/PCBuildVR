@@ -483,6 +483,10 @@ PrefabInstance:
       value: jarst_hard_disk_3 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 8852173898021607216, guid: 4e51e1ec1b6257f4c88c94f35e9a2744, type: 3}
+      propertyPath: m_TagString
+      value: HDD
+      objectReference: {fileID: 0}
+    - target: {fileID: 8852173898021607216, guid: 4e51e1ec1b6257f4c88c94f35e9a2744, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -878,6 +882,10 @@ PrefabInstance:
     - target: {fileID: 6059133269719086478, guid: 90795a9d4974f6a43b7ad4f9f363e621, type: 3}
       propertyPath: m_Name
       value: jarst_RAM_8 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6059133269719086478, guid: 90795a9d4974f6a43b7ad4f9f363e621, type: 3}
+      propertyPath: m_TagString
+      value: RAM
       objectReference: {fileID: 0}
     - target: {fileID: 6059133269719086478, guid: 90795a9d4974f6a43b7ad4f9f363e621, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1295,6 +1303,10 @@ PrefabInstance:
       value: jarst_RAM_4 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 8785991763065484071, guid: ead2f7298e5fa2a4384eff1b0b144eea, type: 3}
+      propertyPath: m_TagString
+      value: RAM
+      objectReference: {fileID: 0}
+    - target: {fileID: 8785991763065484071, guid: ead2f7298e5fa2a4384eff1b0b144eea, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -1391,7 +1403,7 @@ GameObject:
   - component: {fileID: 104797906}
   m_Layer: 0
   m_Name: pc uses
-  m_TagString: Untagged
+  m_TagString: PCBox
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1426,6 +1438,10 @@ PrefabInstance:
     - target: {fileID: 3883700342452512660, guid: 31785da9213c1be44b1d3068be802119, type: 3}
       propertyPath: m_Name
       value: jarst_computer_case_6
+      objectReference: {fileID: 0}
+    - target: {fileID: 3883700342452512660, guid: 31785da9213c1be44b1d3068be802119, type: 3}
+      propertyPath: m_TagString
+      value: PCBox
       objectReference: {fileID: 0}
     - target: {fileID: 3883700342452512660, guid: 31785da9213c1be44b1d3068be802119, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1684,6 +1700,10 @@ PrefabInstance:
       value: jarst_processor_11 (3)
       objectReference: {fileID: 0}
     - target: {fileID: 6110508208495421849, guid: ec7cff7c0c269c14387c8b8bfe5b90b4, type: 3}
+      propertyPath: m_TagString
+      value: CPU
+      objectReference: {fileID: 0}
+    - target: {fileID: 6110508208495421849, guid: ec7cff7c0c269c14387c8b8bfe5b90b4, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -1753,6 +1773,10 @@ PrefabInstance:
     - target: {fileID: 6110508208495421849, guid: ec7cff7c0c269c14387c8b8bfe5b90b4, type: 3}
       propertyPath: m_Name
       value: jarst_processor_11
+      objectReference: {fileID: 0}
+    - target: {fileID: 6110508208495421849, guid: ec7cff7c0c269c14387c8b8bfe5b90b4, type: 3}
+      propertyPath: m_TagString
+      value: CPU
       objectReference: {fileID: 0}
     - target: {fileID: 6110508208495421849, guid: ec7cff7c0c269c14387c8b8bfe5b90b4, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2239,6 +2263,10 @@ PrefabInstance:
       value: jarst_motherboard_1
       objectReference: {fileID: 0}
     - target: {fileID: 7678403367900724204, guid: c5d88e657a39d8146b88fdcab6cf61bc, type: 3}
+      propertyPath: m_TagString
+      value: MotherBoard
+      objectReference: {fileID: 0}
+    - target: {fileID: 7678403367900724204, guid: c5d88e657a39d8146b88fdcab6cf61bc, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -2412,6 +2440,10 @@ PrefabInstance:
       value: jarst_cooler
       objectReference: {fileID: 0}
     - target: {fileID: 3186332074073041730, guid: 5c675185f24dd4645bac37405e69fdd1, type: 3}
+      propertyPath: m_TagString
+      value: WaterCooler
+      objectReference: {fileID: 0}
+    - target: {fileID: 3186332074073041730, guid: 5c675185f24dd4645bac37405e69fdd1, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -2551,6 +2583,10 @@ PrefabInstance:
     - target: {fileID: 3186332074073041730, guid: 5c675185f24dd4645bac37405e69fdd1, type: 3}
       propertyPath: m_Name
       value: jarst_cooler (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3186332074073041730, guid: 5c675185f24dd4645bac37405e69fdd1, type: 3}
+      propertyPath: m_TagString
+      value: WaterCooler
       objectReference: {fileID: 0}
     - target: {fileID: 3186332074073041730, guid: 5c675185f24dd4645bac37405e69fdd1, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2851,6 +2887,10 @@ PrefabInstance:
     - target: {fileID: 6110508208495421849, guid: ec7cff7c0c269c14387c8b8bfe5b90b4, type: 3}
       propertyPath: m_Name
       value: jarst_processor_11 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6110508208495421849, guid: ec7cff7c0c269c14387c8b8bfe5b90b4, type: 3}
+      propertyPath: m_TagString
+      value: CPU
       objectReference: {fileID: 0}
     - target: {fileID: 6110508208495421849, guid: ec7cff7c0c269c14387c8b8bfe5b90b4, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -3338,6 +3378,10 @@ PrefabInstance:
       value: jarst_hard_disk_3
       objectReference: {fileID: 0}
     - target: {fileID: 8852173898021607216, guid: 4e51e1ec1b6257f4c88c94f35e9a2744, type: 3}
+      propertyPath: m_TagString
+      value: HDD
+      objectReference: {fileID: 0}
+    - target: {fileID: 8852173898021607216, guid: 4e51e1ec1b6257f4c88c94f35e9a2744, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -3363,6 +3407,10 @@ PrefabInstance:
     - target: {fileID: 6967242775834698594, guid: 17d0bd20450f1674289a84b10102f902, type: 3}
       propertyPath: m_Name
       value: jarst_water_cooling_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6967242775834698594, guid: 17d0bd20450f1674289a84b10102f902, type: 3}
+      propertyPath: m_TagString
+      value: WaterCooler
       objectReference: {fileID: 0}
     - target: {fileID: 6967242775834698594, guid: 17d0bd20450f1674289a84b10102f902, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -3480,6 +3528,10 @@ PrefabInstance:
       value: jarst_graphics_card_9
       objectReference: {fileID: 0}
     - target: {fileID: 5367040667307709495, guid: d9f97f91f252d084794416446e980657, type: 3}
+      propertyPath: m_TagString
+      value: GPU
+      objectReference: {fileID: 0}
+    - target: {fileID: 5367040667307709495, guid: d9f97f91f252d084794416446e980657, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -3507,6 +3559,10 @@ PrefabInstance:
     - target: {fileID: 3837336037368964985, guid: 533085c0d0467c54dad57b4bfa1fab2c, type: 3}
       propertyPath: m_Name
       value: jarst_RAM_6 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3837336037368964985, guid: 533085c0d0467c54dad57b4bfa1fab2c, type: 3}
+      propertyPath: m_TagString
+      value: RAM
       objectReference: {fileID: 0}
     - target: {fileID: 3837336037368964985, guid: 533085c0d0467c54dad57b4bfa1fab2c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -4545,6 +4601,10 @@ PrefabInstance:
       value: jarst_RAM_7 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 3108910854137305757, guid: b41abe806e055e146a39f7e385806646, type: 3}
+      propertyPath: m_TagString
+      value: RAM
+      objectReference: {fileID: 0}
+    - target: {fileID: 3108910854137305757, guid: b41abe806e055e146a39f7e385806646, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -4826,6 +4886,10 @@ PrefabInstance:
       value: jarst_graphics_card_4
       objectReference: {fileID: 0}
     - target: {fileID: 2276762987454360593, guid: e127b002cd9c5c1489e73c6dcf64eb6b, type: 3}
+      propertyPath: m_TagString
+      value: GPU
+      objectReference: {fileID: 0}
+    - target: {fileID: 2276762987454360593, guid: e127b002cd9c5c1489e73c6dcf64eb6b, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -5006,6 +5070,10 @@ PrefabInstance:
     - target: {fileID: 1511366406833876705, guid: e56812f1983d6cb49a3e4f0eafbea79a, type: 3}
       propertyPath: m_Name
       value: jarst_water_cooling_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1511366406833876705, guid: e56812f1983d6cb49a3e4f0eafbea79a, type: 3}
+      propertyPath: m_TagString
+      value: WaterCooler
       objectReference: {fileID: 0}
     - target: {fileID: 1511366406833876705, guid: e56812f1983d6cb49a3e4f0eafbea79a, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -5730,6 +5798,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: jarst_cooler_9 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5663981402982428507, guid: c300025a83573d348916a0c63117f2a2, type: 3}
+      propertyPath: m_TagString
+      value: WaterCooler
+      objectReference: {fileID: 0}
     - target: {fileID: 6665358779996807471, guid: c300025a83573d348916a0c63117f2a2, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -5894,6 +5966,10 @@ PrefabInstance:
       value: jarst_hard_disk
       objectReference: {fileID: 0}
     - target: {fileID: 5864444032199011908, guid: 135a45a7e899378419fc34aa14a014b2, type: 3}
+      propertyPath: m_TagString
+      value: HDD
+      objectReference: {fileID: 0}
+    - target: {fileID: 5864444032199011908, guid: 135a45a7e899378419fc34aa14a014b2, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -6033,6 +6109,10 @@ PrefabInstance:
     - target: {fileID: 7107296720579024311, guid: a1a61becf8f34314583e07e04294bf74, type: 3}
       propertyPath: m_Name
       value: jarst_hard_disk_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7107296720579024311, guid: a1a61becf8f34314583e07e04294bf74, type: 3}
+      propertyPath: m_TagString
+      value: HDD
       objectReference: {fileID: 0}
     - target: {fileID: 7107296720579024311, guid: a1a61becf8f34314583e07e04294bf74, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -6277,6 +6357,7 @@ MonoBehaviour:
   LeftTopTrigger: {fileID: 914038569}
   UsefullPC: {fileID: 7851961350627489679}
   Glass: {fileID: 875779934562270137}
+  CPUTriggerObj: {fileID: 1871954589}
 --- !u!4 &562083040
 Transform:
   m_ObjectHideFlags: 0
@@ -6516,6 +6597,10 @@ PrefabInstance:
     - target: {fileID: 6059133269719086478, guid: 90795a9d4974f6a43b7ad4f9f363e621, type: 3}
       propertyPath: m_Name
       value: jarst_RAM_8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6059133269719086478, guid: 90795a9d4974f6a43b7ad4f9f363e621, type: 3}
+      propertyPath: m_TagString
+      value: RAM
       objectReference: {fileID: 0}
     - target: {fileID: 6059133269719086478, guid: 90795a9d4974f6a43b7ad4f9f363e621, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -7155,6 +7240,10 @@ PrefabInstance:
       value: jarst_cooler_2
       objectReference: {fileID: 0}
     - target: {fileID: 5796307547023671988, guid: 78b23870292824246ae98fa62cfe0570, type: 3}
+      propertyPath: m_TagString
+      value: WaterCooler
+      objectReference: {fileID: 0}
+    - target: {fileID: 5796307547023671988, guid: 78b23870292824246ae98fa62cfe0570, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -7415,6 +7504,10 @@ PrefabInstance:
     - target: {fileID: 271655512114258202, guid: 74386f9c2f2a39848979b585301cdd8a, type: 3}
       propertyPath: m_Name
       value: jarst_water_cooling
+      objectReference: {fileID: 0}
+    - target: {fileID: 271655512114258202, guid: 74386f9c2f2a39848979b585301cdd8a, type: 3}
+      propertyPath: m_TagString
+      value: WaterCooler
       objectReference: {fileID: 0}
     - target: {fileID: 271655512114258202, guid: 74386f9c2f2a39848979b585301cdd8a, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8772,6 +8865,10 @@ PrefabInstance:
       value: jarst_RAM_4 (3)
       objectReference: {fileID: 0}
     - target: {fileID: 8785991763065484071, guid: ead2f7298e5fa2a4384eff1b0b144eea, type: 3}
+      propertyPath: m_TagString
+      value: RAM
+      objectReference: {fileID: 0}
+    - target: {fileID: 8785991763065484071, guid: ead2f7298e5fa2a4384eff1b0b144eea, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -8841,6 +8938,10 @@ PrefabInstance:
     - target: {fileID: 2008666164420385494, guid: ac50b5f854ee3bc438484cd4fd69fce4, type: 3}
       propertyPath: m_Name
       value: jarst_graphics_card_8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2008666164420385494, guid: ac50b5f854ee3bc438484cd4fd69fce4, type: 3}
+      propertyPath: m_TagString
+      value: GPU
       objectReference: {fileID: 0}
     - target: {fileID: 2008666164420385494, guid: ac50b5f854ee3bc438484cd4fd69fce4, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -9127,6 +9228,10 @@ PrefabInstance:
       value: jarst_RAM_7 (3)
       objectReference: {fileID: 0}
     - target: {fileID: 3108910854137305757, guid: b41abe806e055e146a39f7e385806646, type: 3}
+      propertyPath: m_TagString
+      value: RAM
+      objectReference: {fileID: 0}
+    - target: {fileID: 3108910854137305757, guid: b41abe806e055e146a39f7e385806646, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -9302,6 +9407,10 @@ PrefabInstance:
       value: jarst_RAM_6
       objectReference: {fileID: 0}
     - target: {fileID: 3837336037368964985, guid: 533085c0d0467c54dad57b4bfa1fab2c, type: 3}
+      propertyPath: m_TagString
+      value: RAM
+      objectReference: {fileID: 0}
+    - target: {fileID: 3837336037368964985, guid: 533085c0d0467c54dad57b4bfa1fab2c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -9450,6 +9559,10 @@ PrefabInstance:
     - target: {fileID: 5796307547023671988, guid: 78b23870292824246ae98fa62cfe0570, type: 3}
       propertyPath: m_Name
       value: jarst_cooler_2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5796307547023671988, guid: 78b23870292824246ae98fa62cfe0570, type: 3}
+      propertyPath: m_TagString
+      value: WaterCooler
       objectReference: {fileID: 0}
     - target: {fileID: 5796307547023671988, guid: 78b23870292824246ae98fa62cfe0570, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -9849,6 +9962,10 @@ PrefabInstance:
     - target: {fileID: 3108910854137305757, guid: b41abe806e055e146a39f7e385806646, type: 3}
       propertyPath: m_Name
       value: jarst_RAM_7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3108910854137305757, guid: b41abe806e055e146a39f7e385806646, type: 3}
+      propertyPath: m_TagString
+      value: RAM
       objectReference: {fileID: 0}
     - target: {fileID: 3108910854137305757, guid: b41abe806e055e146a39f7e385806646, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -11187,6 +11304,10 @@ PrefabInstance:
       value: jarst_RAM_8 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 6059133269719086478, guid: 90795a9d4974f6a43b7ad4f9f363e621, type: 3}
+      propertyPath: m_TagString
+      value: RAM
+      objectReference: {fileID: 0}
+    - target: {fileID: 6059133269719086478, guid: 90795a9d4974f6a43b7ad4f9f363e621, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -11475,6 +11596,10 @@ PrefabInstance:
     - target: {fileID: 6259330956643618846, guid: 543df7d5381d17b4d83cae620574bdf7, type: 3}
       propertyPath: m_Name
       value: jarst_cooler_5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6259330956643618846, guid: 543df7d5381d17b4d83cae620574bdf7, type: 3}
+      propertyPath: m_TagString
+      value: WaterCooler
       objectReference: {fileID: 0}
     - target: {fileID: 6743662136727767716, guid: 543df7d5381d17b4d83cae620574bdf7, type: 3}
       propertyPath: m_RootOrder
@@ -12657,6 +12782,10 @@ PrefabInstance:
       value: jarst_computer_case_7
       objectReference: {fileID: 0}
     - target: {fileID: 2504359693094124366, guid: 131d8313a1dd11a4dafc510f2249091a, type: 3}
+      propertyPath: m_TagString
+      value: PCBox
+      objectReference: {fileID: 0}
+    - target: {fileID: 2504359693094124366, guid: 131d8313a1dd11a4dafc510f2249091a, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -12882,6 +13011,10 @@ PrefabInstance:
     - target: {fileID: 6110508208495421849, guid: ec7cff7c0c269c14387c8b8bfe5b90b4, type: 3}
       propertyPath: m_Name
       value: jarst_processor_11 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6110508208495421849, guid: ec7cff7c0c269c14387c8b8bfe5b90b4, type: 3}
+      propertyPath: m_TagString
+      value: CPU
       objectReference: {fileID: 0}
     - target: {fileID: 6110508208495421849, guid: ec7cff7c0c269c14387c8b8bfe5b90b4, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -13187,6 +13320,10 @@ PrefabInstance:
       value: jarst_RAM_4 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 8785991763065484071, guid: ead2f7298e5fa2a4384eff1b0b144eea, type: 3}
+      propertyPath: m_TagString
+      value: RAM
+      objectReference: {fileID: 0}
+    - target: {fileID: 8785991763065484071, guid: ead2f7298e5fa2a4384eff1b0b144eea, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -13212,6 +13349,10 @@ PrefabInstance:
     - target: {fileID: 6259330956643618846, guid: 543df7d5381d17b4d83cae620574bdf7, type: 3}
       propertyPath: m_Name
       value: jarst_cooler_5 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6259330956643618846, guid: 543df7d5381d17b4d83cae620574bdf7, type: 3}
+      propertyPath: m_TagString
+      value: WaterCooler
       objectReference: {fileID: 0}
     - target: {fileID: 6743662136727767716, guid: 543df7d5381d17b4d83cae620574bdf7, type: 3}
       propertyPath: m_RootOrder
@@ -13470,6 +13611,10 @@ PrefabInstance:
     - target: {fileID: 3108910854137305757, guid: b41abe806e055e146a39f7e385806646, type: 3}
       propertyPath: m_Name
       value: jarst_RAM_7 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3108910854137305757, guid: b41abe806e055e146a39f7e385806646, type: 3}
+      propertyPath: m_TagString
+      value: RAM
       objectReference: {fileID: 0}
     - target: {fileID: 3108910854137305757, guid: b41abe806e055e146a39f7e385806646, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -14156,6 +14301,10 @@ PrefabInstance:
       value: jarst_graphics_card_11
       objectReference: {fileID: 0}
     - target: {fileID: 1084540234935730401, guid: 74f12b86f0dd72547874f4907116d845, type: 3}
+      propertyPath: m_TagString
+      value: GPU
+      objectReference: {fileID: 0}
+    - target: {fileID: 1084540234935730401, guid: 74f12b86f0dd72547874f4907116d845, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -14184,6 +14333,10 @@ PrefabInstance:
     - target: {fileID: 160647007116753674, guid: 412fed9bb09fa934e96609369a8c36b3, type: 3}
       propertyPath: m_Name
       value: jarst_power_supply
+      objectReference: {fileID: 0}
+    - target: {fileID: 160647007116753674, guid: 412fed9bb09fa934e96609369a8c36b3, type: 3}
+      propertyPath: m_TagString
+      value: 'PowerSupply '
       objectReference: {fileID: 0}
     - target: {fileID: 160647007116753674, guid: 412fed9bb09fa934e96609369a8c36b3, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -14463,6 +14616,10 @@ PrefabInstance:
     - target: {fileID: 5663981402982428507, guid: c300025a83573d348916a0c63117f2a2, type: 3}
       propertyPath: m_Name
       value: jarst_cooler_9
+      objectReference: {fileID: 0}
+    - target: {fileID: 5663981402982428507, guid: c300025a83573d348916a0c63117f2a2, type: 3}
+      propertyPath: m_TagString
+      value: WaterCooler
       objectReference: {fileID: 0}
     - target: {fileID: 6665358779996807471, guid: c300025a83573d348916a0c63117f2a2, type: 3}
       propertyPath: m_Enabled
@@ -14846,6 +15003,10 @@ PrefabInstance:
     - target: {fileID: 8785991763065484071, guid: ead2f7298e5fa2a4384eff1b0b144eea, type: 3}
       propertyPath: m_Name
       value: jarst_RAM_4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8785991763065484071, guid: ead2f7298e5fa2a4384eff1b0b144eea, type: 3}
+      propertyPath: m_TagString
+      value: RAM
       objectReference: {fileID: 0}
     - target: {fileID: 8785991763065484071, guid: ead2f7298e5fa2a4384eff1b0b144eea, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -15357,6 +15518,10 @@ PrefabInstance:
     - target: {fileID: 2023070849760264552, guid: 117416d77c00a4849ba7e69a10d9896d, type: 3}
       propertyPath: m_Name
       value: jarst_cooler_8 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2023070849760264552, guid: 117416d77c00a4849ba7e69a10d9896d, type: 3}
+      propertyPath: m_TagString
+      value: WaterCooler
       objectReference: {fileID: 0}
     - target: {fileID: 2023070849760264552, guid: 117416d77c00a4849ba7e69a10d9896d, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -16441,6 +16606,10 @@ PrefabInstance:
       value: jarst_RAM_6 (3)
       objectReference: {fileID: 0}
     - target: {fileID: 3837336037368964985, guid: 533085c0d0467c54dad57b4bfa1fab2c, type: 3}
+      propertyPath: m_TagString
+      value: RAM
+      objectReference: {fileID: 0}
+    - target: {fileID: 3837336037368964985, guid: 533085c0d0467c54dad57b4bfa1fab2c, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -16506,6 +16675,10 @@ PrefabInstance:
     - target: {fileID: 6059133269719086478, guid: 90795a9d4974f6a43b7ad4f9f363e621, type: 3}
       propertyPath: m_Name
       value: jarst_RAM_8 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6059133269719086478, guid: 90795a9d4974f6a43b7ad4f9f363e621, type: 3}
+      propertyPath: m_TagString
+      value: RAM
       objectReference: {fileID: 0}
     - target: {fileID: 6059133269719086478, guid: 90795a9d4974f6a43b7ad4f9f363e621, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -16690,6 +16863,10 @@ PrefabInstance:
       value: jarst_processor_11 (4)
       objectReference: {fileID: 0}
     - target: {fileID: 6110508208495421849, guid: ec7cff7c0c269c14387c8b8bfe5b90b4, type: 3}
+      propertyPath: m_TagString
+      value: CPU
+      objectReference: {fileID: 0}
+    - target: {fileID: 6110508208495421849, guid: ec7cff7c0c269c14387c8b8bfe5b90b4, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -16863,6 +17040,10 @@ PrefabInstance:
       value: jarst_power_supply_2
       objectReference: {fileID: 0}
     - target: {fileID: 7108368333241050111, guid: 123bd64067d12934abf4d62590169d5f, type: 3}
+      propertyPath: m_TagString
+      value: 'PowerSupply '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7108368333241050111, guid: 123bd64067d12934abf4d62590169d5f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -17005,6 +17186,10 @@ PrefabInstance:
       value: jarst_hard_disk_2
       objectReference: {fileID: 0}
     - target: {fileID: 3820442161557613809, guid: c607afc3ae06efd4d9d3f528aad3a9a5, type: 3}
+      propertyPath: m_TagString
+      value: HDD
+      objectReference: {fileID: 0}
+    - target: {fileID: 3820442161557613809, guid: c607afc3ae06efd4d9d3f528aad3a9a5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -17114,6 +17299,10 @@ PrefabInstance:
     - target: {fileID: 7760618360537777450, guid: 380b3cf67aa34f547a96d64258f3e5cd, type: 3}
       propertyPath: m_Name
       value: jarst_cooler_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7760618360537777450, guid: 380b3cf67aa34f547a96d64258f3e5cd, type: 3}
+      propertyPath: m_TagString
+      value: WaterCooler
       objectReference: {fileID: 0}
     - target: {fileID: 8766780202537225054, guid: 380b3cf67aa34f547a96d64258f3e5cd, type: 3}
       propertyPath: m_Enabled
@@ -17980,6 +18169,10 @@ PrefabInstance:
       value: jarst_graphics_card_5
       objectReference: {fileID: 0}
     - target: {fileID: 948522559243052325, guid: 9155d59fa3d478340abdf69a08d08bd6, type: 3}
+      propertyPath: m_TagString
+      value: GPU
+      objectReference: {fileID: 0}
+    - target: {fileID: 948522559243052325, guid: 9155d59fa3d478340abdf69a08d08bd6, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -18598,6 +18791,10 @@ PrefabInstance:
       value: jarst_power_supply_1
       objectReference: {fileID: 0}
     - target: {fileID: 751689663699098376, guid: 7a496e71b6942d94e9d72864b11b9993, type: 3}
+      propertyPath: m_TagString
+      value: 'PowerSupply '
+      objectReference: {fileID: 0}
+    - target: {fileID: 751689663699098376, guid: 7a496e71b6942d94e9d72864b11b9993, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -19186,6 +19383,10 @@ PrefabInstance:
       value: jarst_hard_disk_2 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 3820442161557613809, guid: c607afc3ae06efd4d9d3f528aad3a9a5, type: 3}
+      propertyPath: m_TagString
+      value: HDD
+      objectReference: {fileID: 0}
+    - target: {fileID: 3820442161557613809, guid: c607afc3ae06efd4d9d3f528aad3a9a5, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -19453,6 +19654,10 @@ PrefabInstance:
       value: jarst_cooler_8
       objectReference: {fileID: 0}
     - target: {fileID: 2023070849760264552, guid: 117416d77c00a4849ba7e69a10d9896d, type: 3}
+      propertyPath: m_TagString
+      value: WaterCooler
+      objectReference: {fileID: 0}
+    - target: {fileID: 2023070849760264552, guid: 117416d77c00a4849ba7e69a10d9896d, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -19477,6 +19682,10 @@ PrefabInstance:
     - target: {fileID: 7240493368832984672, guid: 4518eefb3fb87d84e826e8facd362c08, type: 3}
       propertyPath: m_Name
       value: jarst_motherboard_5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7240493368832984672, guid: 4518eefb3fb87d84e826e8facd362c08, type: 3}
+      propertyPath: m_TagString
+      value: MotherBoard
       objectReference: {fileID: 0}
     - target: {fileID: 7240493368832984672, guid: 4518eefb3fb87d84e826e8facd362c08, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -19815,6 +20024,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: jarst_cooler_1 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7760618360537777450, guid: 380b3cf67aa34f547a96d64258f3e5cd, type: 3}
+      propertyPath: m_TagString
+      value: WaterCooler
+      objectReference: {fileID: 0}
     - target: {fileID: 8766780202537225054, guid: 380b3cf67aa34f547a96d64258f3e5cd, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -19882,6 +20095,10 @@ PrefabInstance:
       value: jarst_motherboard
       objectReference: {fileID: 0}
     - target: {fileID: 3443876587846569882, guid: add122f6014906c4b865a0f419692995, type: 3}
+      propertyPath: m_TagString
+      value: MotherBoard
+      objectReference: {fileID: 0}
+    - target: {fileID: 3443876587846569882, guid: add122f6014906c4b865a0f419692995, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -19893,6 +20110,25 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2630325580919297312, guid: add122f6014906c4b865a0f419692995, type: 3}
   m_PrefabInstance: {fileID: 1871954586}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1871954588 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2149777535810678605, guid: add122f6014906c4b865a0f419692995, type: 3}
+  m_PrefabInstance: {fileID: 1871954586}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1871954589
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1871954588}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 996ed79f2accad04e9b57bbf814fdd57, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  motherBoardCPU: {fileID: 1871954588}
+  TriggerCheck: 0
 --- !u!1 &1880383035 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3443876587846569882, guid: add122f6014906c4b865a0f419692995, type: 3}
@@ -20045,6 +20281,19 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   interactable: {fileID: 0}
+--- !u!114 &1880383041
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1880383035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd8a3cc4d35dbeb4f88fb00c22b447f9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CPUTrigger: {fileID: 1871954588}
 --- !u!1001 &1883528131
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20539,6 +20788,10 @@ PrefabInstance:
       value: jarst_processor_11 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 6110508208495421849, guid: ec7cff7c0c269c14387c8b8bfe5b90b4, type: 3}
+      propertyPath: m_TagString
+      value: CPU
+      objectReference: {fileID: 0}
+    - target: {fileID: 6110508208495421849, guid: ec7cff7c0c269c14387c8b8bfe5b90b4, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -20740,6 +20993,10 @@ PrefabInstance:
     - target: {fileID: 6110508208495421849, guid: ec7cff7c0c269c14387c8b8bfe5b90b4, type: 3}
       propertyPath: m_Name
       value: jarst_processor_11 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6110508208495421849, guid: ec7cff7c0c269c14387c8b8bfe5b90b4, type: 3}
+      propertyPath: m_TagString
+      value: CPU
       objectReference: {fileID: 0}
     - target: {fileID: 6110508208495421849, guid: ec7cff7c0c269c14387c8b8bfe5b90b4, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -22131,6 +22388,10 @@ PrefabInstance:
       value: jarst_hard_disk_1 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 7107296720579024311, guid: a1a61becf8f34314583e07e04294bf74, type: 3}
+      propertyPath: m_TagString
+      value: HDD
+      objectReference: {fileID: 0}
+    - target: {fileID: 7107296720579024311, guid: a1a61becf8f34314583e07e04294bf74, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -22392,6 +22653,10 @@ PrefabInstance:
       value: jarst_graphics_card_1
       objectReference: {fileID: 0}
     - target: {fileID: 8350091119134459700, guid: 22c1d842c4893c94d8bd75dfe23b722b, type: 3}
+      propertyPath: m_TagString
+      value: GPU
+      objectReference: {fileID: 0}
+    - target: {fileID: 8350091119134459700, guid: 22c1d842c4893c94d8bd75dfe23b722b, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -22451,6 +22716,10 @@ PrefabInstance:
     - target: {fileID: 3837336037368964985, guid: 533085c0d0467c54dad57b4bfa1fab2c, type: 3}
       propertyPath: m_Name
       value: jarst_RAM_6 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3837336037368964985, guid: 533085c0d0467c54dad57b4bfa1fab2c, type: 3}
+      propertyPath: m_TagString
+      value: RAM
       objectReference: {fileID: 0}
     - target: {fileID: 3837336037368964985, guid: 533085c0d0467c54dad57b4bfa1fab2c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -22709,6 +22978,10 @@ PrefabInstance:
     - target: {fileID: 6591476910286389819, guid: bc3322084f5b8674d802272682658023, type: 3}
       propertyPath: m_Name
       value: jarst_graphics_card_7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6591476910286389819, guid: bc3322084f5b8674d802272682658023, type: 3}
+      propertyPath: m_TagString
+      value: GPU
       objectReference: {fileID: 0}
     - target: {fileID: 6591476910286389819, guid: bc3322084f5b8674d802272682658023, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -23437,9 +23710,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e4b1ba042299cc47af08ae4fac7f5ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  UseFullPC: {fileID: 562083039}
-  Glass: {fileID: 875779934562270137}
-  PC: {fileID: 0}
 --- !u!23 &7927309048805421976
 MeshRenderer:
   m_ObjectHideFlags: 0

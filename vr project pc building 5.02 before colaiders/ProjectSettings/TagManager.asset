@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - PCBox
+  - MotherBoard
+  - CPU
+  - GPU
+  - RAM
+  - 'PowerSupply '
+  - Cooler
+  - HDD
+  - WaterCooler
+  - BodyCooler
   layers:
   - Default
   - TransparentFX

@@ -15,7 +15,8 @@ public class GameManager : MonoBehaviour
     public Rigidbody Glass;
     private FixedJoint UsefullPCJoint;
 
-    // Start is called before the first frame update
+    public CPUTrigger CPUTriggerObj;
+    
     void Start()
     {
         triggerCheck = 0;
@@ -60,11 +61,14 @@ public class GameManager : MonoBehaviour
             triggerCheck = 0;
             UsefullPCJoint = UsefullPC.GetComponent<FixedJoint>();
             UsefullPCJoint.connectedBody = Glass;
+            triggerCheck = 0;
+        }
 
+        if (CPUTriggerObj.TriggerCheck)
+        {
+
+            CPUTriggerObj.TriggerCheck = false;
         }
     }
-    /*private void FixedJoin()
-    {
-        UsefullPC
-    }*/
+    
 }
