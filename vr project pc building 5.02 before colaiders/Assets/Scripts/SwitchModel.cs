@@ -16,7 +16,7 @@ public class SwitchModel : MonoBehaviour
             collision.gameObject.SetActive(false);
             motherGpu.SetActive(true);
             motherGpu.transform.position = startPos;
-            //motherGpu.AddComponent<Rigidbody>();
+            
             
         }
     }
